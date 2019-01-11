@@ -24,4 +24,6 @@ def current_player(board)
   #   "O"
   # end
 
+  # --- conditional trick 3 ---
+
 end
