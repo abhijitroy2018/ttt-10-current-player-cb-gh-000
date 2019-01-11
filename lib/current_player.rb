@@ -25,5 +25,5 @@ def current_player(board)
   # end
 
   # --- conditional trick 3 ---
-  turn_count(board).even? "X" : "O"
+  turn_count(board).even?? "X" : "O"
 end
